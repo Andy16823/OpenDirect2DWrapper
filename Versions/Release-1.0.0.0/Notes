@@ -1,0 +1,11 @@
+Release Notizen:
+
+Beinhaltende Klassen:
+
+- Direct2DWrapper::Direct2DManager
+- Direct2DWrapper::Graphics
+- Direct2DWrapper::dwRectangle
+- Direct2DWrapper::dwPoint
+- Direct2DWrapper::dwBrush
+- Direct2DWrapper::dwBitmap
+
